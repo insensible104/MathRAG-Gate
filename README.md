@@ -139,11 +139,11 @@ Where τ = 0.45 (threshold)
 **Scientific Discovery: Structure-Logic Orthogonality**
 
 ![Correlation Analysis](results/figure5_correlation_analysis.png)
-*Figure: Correlation analysis between Rule-RQP and LLM-RQP scores (ρ=0.139 < 0.1), demonstrating significant decoupling between structural formality and logical validity in the MATH dataset*
+*Figure: Correlation analysis between Rule-RQP and LLM-RQP scores (ρ=0.139 < 0.45), demonstrating significant decoupling between structural formality and logical validity in the MATH dataset*
 
 **Interpretation**:
 - In simple tasks: Rule scores correlate with logic quality → Gate selects fast Rule mode
-- In complex tasks (MATH dataset): Correlation collapses (ρ < 0.1) → Gate triggers LLM Fallback
+- In complex tasks (MATH dataset): Correlation collapses (ρ < 0.45) → Gate triggers LLM Fallback
 
 #### 4. Staged Batching
 

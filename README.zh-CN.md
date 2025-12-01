@@ -139,11 +139,11 @@ Score = w_logic × N_logic + w_struct × N_struct + w_math × N_math + w_box × 
 **科学发现：结构-逻辑正交性**
 
 ![Correlation Analysis](results/figure5_correlation_analysis.png)
-*图：Rule-RQP 与 LLM-RQP 的相关性分析（ρ=0.139 < 0.1），证明结构规范性与逻辑正确性在 MATH 数据集中呈现显著解耦*
+*图：Rule-RQP 与 LLM-RQP 的相关性分析（ρ=0.139 < 0.45），证明结构规范性与逻辑正确性在 MATH 数据集中呈现显著解耦*
 
 **解释**：
 - 在简单任务中，规则评分与逻辑质量高度相关，Gate 选择快速的 Rule 模式
-- 在复杂任务（如 MATH 数据集）中，相关性崩溃（ρ < 0.1），Gate 自动触发 LLM Fallback
+- 在复杂任务（如 MATH 数据集）中，相关性崩溃（ρ < 0.45），Gate 自动触发 LLM Fallback
 
 #### 4. 分阶段批处理 (Staged Batching)
 

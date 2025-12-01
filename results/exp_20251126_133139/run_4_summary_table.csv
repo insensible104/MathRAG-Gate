@@ -1,0 +1,5 @@
+Method,Accuracy (%),Recall@5 (%),Latency (s)
+Dense Retrieval,0.86,1.0,4.707805187702179
+Sparse Retrieval (BM25),0.85,0.99,4.658500561714172
+Hybrid Retrieval (RRF),0.81,1.0,4.7584002542495725
+MathRAG-Gate (Ours),0.86,1.0,4.727262003421783

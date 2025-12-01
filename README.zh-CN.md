@@ -470,9 +470,9 @@ search_space = [
 
 ## 📮 联系方式
 
-- **作者**: [Your Name]
-- **邮箱**: [your.email@example.com]
-- **项目主页**: [GitHub Repository](https://github.com/your-repo)
+- **作者**: [陈晓腾、叶芮嘉、梁誉瀚]
+- **邮箱**: [xchen400@connect.hkust-gz.edu.cn]
+- **项目主页**: [GitHub Repository](https://github.com/insensible104/MathRAG-Gate)
 
 ---
 

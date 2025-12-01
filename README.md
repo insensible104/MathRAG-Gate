@@ -470,9 +470,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 ## 📮 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **Repository**: [GitHub Repository](https://github.com/your-repo)
+- **Author**: [Xiaoteng CHEN, Ruijia YE, Yuhan LIANG]
+- **Email**: [xchen400@connect.hkust-gz.edu.cn]
+- **Repository**: [GitHub Repository](https://github.com/insensible104/MathRAG-Gate)
 
 ---
 
